@@ -39,10 +39,12 @@ Organized a pop-up restaurant that served thousands customers at events. Also wo
 
 | 2005-2010 | Saint Petersburg Mining University | Saint-Petersburg, Russia |
 | ---- | ---- | ---- |
+
 Specialist. Mining Engineering, Surface Mining Operations
 
 | 2001-2005 | Chernogorsk Mining Technical School | Chernogorsk, Russia |
 | ---- | ---- | ---- |
+
 Mining electrician mechanic
 
 ## Skills
