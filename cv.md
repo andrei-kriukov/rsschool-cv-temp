@@ -52,4 +52,4 @@ Electromechanics, Eddy-current testing, Laser alignment, Condition monitoring, S
 
 ## English
 Proficient - according to the online test at www.efset.org
-![EF certificate](/assets/images/certificate_77.png)
+![EF certificate](certificate_77.png)
