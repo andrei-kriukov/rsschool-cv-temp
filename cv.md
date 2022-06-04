@@ -11,22 +11,22 @@ Discord: Andrei_Kriukov#8081
 
 ## Experience
 
-| June 2022-Present | The Rolling Scopes School |
-| ---- | ---- |
-** Student **
+| June 2022-Present | The Rolling Scopes School | Student |
+| ---- | ---- | ---- |
+
 - Make up pages using GIT Markup and HTML
 - Commit chages in GIT
 - Code on JavaScript
 
-| 2017-Present | Pruftechnik CIS, LTD |
-| ---- | ---- |
-** Sales Engineer **
+| 2017-Present | Pruftechnik CIS, LTD | Sales Engineer |
+| ---- | ---- | ---- |
+
 - Engage with customers to promote laser alignment products
 - Trained customers’ personnel, commissioned equipment
 
-| 2013-2017 | SMC Pneumatik, LTD |
-| ---- | ---- |
-** Senior Sales Engineer, Team Lead **
+| 2013-2017 | SMC Pneumatik, LTD | Senior Sales Engineer, Team Lead |
+| ---- | ---- | ---- |
+
 - Worked with TOP clients of the department – 40% turnover
 - Led a team of 7 sales engineers, 3 of them remotely
 
