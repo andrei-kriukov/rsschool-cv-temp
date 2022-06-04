@@ -1,7 +1,6 @@
-| ![avatar](avatar.jpg) | kryukov.kryukov@gmail.com
+kryukov.kryukov@gmail.com
 +7 (905) 285-72-73
-Discord: Andrei_Kriukov#8081 |
-| ------------- | ------------- |
+Discord: Andrei_Kriukov#8081
 	
 # Andrei Kriukov
 
@@ -14,23 +13,20 @@ Discord: Andrei_Kriukov#8081 |
 
 | June 2022-Present | The Rolling Scopes School |
 | ---- | ---- |
-
-### Student
+** Student **
 - Make up pages using GIT Markup and HTML
 - Commit chages in GIT
 - Code on JavaScript
 
 | 2017-Present | Pruftechnik CIS, LTD |
 | ---- | ---- |
-
-### Sales Engineer 
+** Sales Engineer **
 - Engage with customers to promote laser alignment products
 - Trained customers’ personnel, commissioned equipment
 
-| 2013-2017 | SMC Pneumatik, LTD |Saint-Petersburg, Russia |
+| 2013-2017 | SMC Pneumatik, LTD |
 | ---- | ---- |
-
-### Senior Sales Engineer, Team Lead
+** Senior Sales Engineer, Team Lead **
 - Worked with TOP clients of the department – 40% turnover
 - Led a team of 7 sales engineers, 3 of them remotely
 
@@ -43,12 +39,12 @@ Organized a pop-up restaurant that served thousands of customers at events. Work
 | ---- | ---- | ---- |
 
 ## Courses
-|      |                                        |
-| ---- | -------------------------------------- |
-| 2022 | Introduction in programming, hexlet.io |
-| 2022 | Software testing, Coursesby Vadim Ksendzov |
-| 2022 | Interactive SQL Simulator |
-| 2019 |  Data Analysis and Presentation Skills: the PwC Approach, Coursera|
+|      |                                        |             |
+| ---- | -------------------------------------- | ----------- |
+| 2022 | Introduction in programming | hexlet.io |
+| 2022 | Software testing | ksendzov.com |
+| 2022 | Interactive SQL Simulator | stepik.org |
+| 2019 |  Data Analysis and Presentation Skills: the PwC Approach | Coursera |
 
 ## Code example
 ```
