@@ -1,54 +1,77 @@
-kryukov.kryukov@gmail.com
+| ![avatar](avatar.jpg) | kryukov.kryukov@gmail.com
 +7 (905) 285-72-73
+Discord: Andrei_Kriukov#8081 |
+| ------------- | ------------- |
 	
 # Andrei Kriukov
 
 ## Summary
 
-10+ years experience in industrial b2b sales: measurement equipment, components for industrial automation.
-Strengths include leadership skills, team player, continuous learning, analytical thinking, proactive, reading technical documentation, technical service 
+- 6 month of studying software testing and programming 
+- 10+ years experience in industrial b2b sales
 
 ## Experience
 
-| 2017-Present | Pruftechnik CIS, LTD | Saint-Petersburg, Russia |
-| ---- | ---- | ---- |
+| June 2022-Present | The Rolling Scopes School |
+| ---- | ---- |
+
+### Student
+- Make up pages using GIT Markup and HTML
+- Commit chages in GIT
+- Code on JavaScript
+
+| 2017-Present | Pruftechnik CIS, LTD |
+| ---- | ---- |
 
 ### Sales Engineer 
-- Engaged with customers to promote FRS products from NDT and ALI departments
-- Trained customers’ personnel, commissioned NDT equipment
-- Participated in Kaizens
+- Engage with customers to promote laser alignment products
+- Trained customers’ personnel, commissioned equipment
 
 | 2013-2017 | SMC Pneumatik, LTD |Saint-Petersburg, Russia |
-| ---- | ---- | ---- |
+| ---- | ---- |
 
 ### Senior Sales Engineer, Team Lead
 - Worked with TOP clients of the department – 40% turnover
 - Led a team of 7 sales engineers, 3 of them remotely
-### Sales Engineer
-- Engaged with customers to promote pneumatic equipment for industrial automation
-- Participated in exhibitions and other marketing activities
-### Sales support engineer
-- Supported sales technically and organizationally: equipment selection, invoicing, product ordering, etc.
-- Supervised technical projects 
-- Worked in OTRS, CRM
 
 ### Additionally
-Organized a pop-up restaurant that served thousands customers at events. Also worked as a copywriter, an electrician.
+Organized a pop-up restaurant that served thousands of customers at events. Worked as a copywriter, an electrician.
 
 ## Education
 
-| 2005-2010 | Saint Petersburg Mining University | Saint-Petersburg, Russia |
+| 2005-2010 | Saint Petersburg Mining University | Specialist. Mining Engineering, Surface Mining Operations |
 | ---- | ---- | ---- |
 
-Specialist. Mining Engineering, Surface Mining Operations
+## Courses
+|      |                                        |
+| ---- | -------------------------------------- |
+| 2022 | Introduction in programming, hexlet.io |
+| 2022 | Software testing, Coursesby Vadim Ksendzov |
+| 2022 | Interactive SQL Simulator |
+| 2019 |  Data Analysis and Presentation Skills: the PwC Approach, Coursera|
 
-| 2001-2005 | Chernogorsk Mining Technical School | Chernogorsk, Russia |
-| ---- | ---- | ---- |
+## Code example
+```
+const length = (str) => str.length;
+const toUpperCase = (str) => str.toUpperCase();
 
-Mining electrician mechanic
+const solution = (str) => {
+    let result = ""; 
+
+    for (let i = 1; i < length(str); i++) {
+            if (str[i-1] === " ") {
+                result = result + toUpperCase(str[i]);
+            }
+            else {
+                result = result + str[i];   
+            }
+    }
+    return toUpperCase(str[0]) + result;
+}
+```
 
 ## Skills
-Electromechanics, Eddy-current testing, Laser alignment, Condition monitoring, SQL, Salesforce, OTRS, AutoCAD, Software testing, Java Script.
+Software testing, SQL, OTRS, JavaScript, HTML&CSS, GIT, Photoshop, Working in team
 
 ## English
 Proficient - according to the online test at www.efset.org
