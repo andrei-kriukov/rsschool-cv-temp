@@ -11,7 +11,6 @@ Strengths include leadership skills, team player, continuous learning, analytica
 ## Experience
 
 | 2017-Present | Pruftechnik CIS, LTD | Saint-Petersburg, Russia |
-| ---- | ---- | ---- |
 
 ### Sales Engineer 
 - Engaged with customers to promote FRS products from NDT and ALI departments
@@ -19,7 +18,6 @@ Strengths include leadership skills, team player, continuous learning, analytica
 - Participated in Kaizens
 
 | 2013-2017 | SMC Pneumatik, LTD |Saint-Petersburg, Russia |
-| ---- | ---- | ---- |
 
 ### Senior Sales Engineer, Team Lead
 - Worked with TOP clients of the department – 40% turnover
@@ -38,12 +36,10 @@ Organized a pop-up restaurant that served thousands customers at events. Also wo
 ## Education
 
 | 2005-2010 | Saint Petersburg Mining University | Saint-Petersburg, Russia |
-| ---- | ---- | ---- |
 
 Specialist. Mining Engineering, Surface Mining Operations
 
 | 2001-2005 | Chernogorsk Mining Technical School | Chernogorsk, Russia |
-| ---- | ---- | ---- |
 
 Mining electrician mechanic
 
