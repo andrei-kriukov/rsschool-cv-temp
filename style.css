@@ -1,9 +1,67 @@
-h1 {
-    color: blue;
-    background-color: yellow;
-    border: 1px solid black;
-  }
-  
-  p {
-    color: red;
-  }
+@font-face {
+  font-family: Roboto;
+   src: url("assets/fonts/Roboto-Regular.ttf");
+ }
+
+ @font-face {
+  font-family: Mukta;
+   src: url("assets/fonts/Mukta-Regular.ttf");
+ }
+
+body {
+  font-family: 'Roboto', 'Mukta';
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0px; 
+  padding: 0px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+} 
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.nav-list {
+  list-style: none;
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+}
+
+.nav-link {
+  transition: .3s;
+}
+
+.nav-item a {
+  color: #5c8f63;
+  text-decoration: none;  
+  transition: color 0.5s;
+}
+.nav-item a:hover {
+  color: #1e0303;
+}
+
+html {
+  scroll-behavior: smooth; 
+}
+
