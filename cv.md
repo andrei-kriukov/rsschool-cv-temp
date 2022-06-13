@@ -71,4 +71,4 @@ Software testing, SQL, OTRS, JavaScript, HTML&CSS, GIT, Photoshop, Working in te
 
 ## English
 Proficient - according to the online test at www.efset.org
-![EF certificate](rschool-cv\rsschool-cv\assets\img\certificate_77.png)
+![EF certificate](assets/img/certificate_77.png)
