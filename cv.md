@@ -69,6 +69,6 @@ const solution = (str) => {
 ## Skills
 Software testing, SQL, OTRS, JavaScript, HTML&CSS, GIT, Photoshop, Working in team
 
-## English
+## English Level
 Proficient - according to the online test at www.efset.org
-![EF certificate](certificate_77.png)
+![EF certificate](assets/img/certificate_77.png)
