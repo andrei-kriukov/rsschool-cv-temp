@@ -49,6 +49,15 @@ body {
 }
 
 
+.footer-container {
+  display: flex; 
+}
+
+.section-footer {
+  width: 33%;
+}
+
+
 
 .nav-list {
   display: flex;
@@ -67,6 +76,12 @@ body {
 
 .nav-link {
   transition: .3s;
+}
+
+.table-expirience {
+  padding: 5px;
+  padding-left: 10px;
+  border-spacing: 20px;
 }
 
 .nav-item a {
@@ -115,15 +130,19 @@ body {
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 5px;
-  color: #5c8f63;
+  color: #023c09;
 }
 
 .link {
   text-decoration: none;
-  color: #829985;
+  color: #466f4c;
   transition: color 0.5s;
 }
 
 .link:hover {
-  color: #5d7260;
+  color: #662339;
+}
+
+body {
+  background-color: rgb(242, 245, 251);
 }
