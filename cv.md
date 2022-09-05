@@ -11,7 +11,7 @@ Discord: Andrei_Kriukov#8081
 
 ## Experience
 
-| June 2022-Present | The Rolling Scopes School | Student |
+| June 2022-Present | The Rolling Scopes School | Student |git 
 | ---- | ---- | ---- |
 
 - Make up pages using GIT Markup and HTML
