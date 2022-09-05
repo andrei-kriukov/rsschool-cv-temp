@@ -11,7 +11,12 @@
 
 ## Experience
 
+<<<<<<< HEAD
 June 2022-Present | The Rolling Scopes School | Student
+=======
+| June 2022-Present | The Rolling Scopes School | Student |git 
+| ---- | ---- | ---- |
+>>>>>>> rsschool-cv-html
 
 - Make up pages and apps using GIT Markup, HTML and CSS, JavaScript
 - Commit chages in GIT
