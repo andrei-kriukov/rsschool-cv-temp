@@ -4,11 +4,204 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <title>cv</title>
+    <link rel="icon" href="assets/img/favicon.ico">
+    
 </head>
 <body>
-    <h1>My CV</h1>
-    <p> There will be text</p>
-    <p>There will be another text</p>
+    <header class="header">
+        <div class="container">
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="#contacts" class="nav-link">Contatcs</a></li>
+                    <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+                    <li class="nav-item"><a href="#experience" class="nav-link">Experience</a></li>
+                    <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                    <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
+                    <li class="nav-item"><a href="#code_example" class="nav-link">Code Example</a></li>
+                    <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                    <li class="nav-item"><a href="#english_level" class="nav-link">English Level</a></li>
+                </ul>
+            </nav>
+        </div>
+        
+    </header>
+    
+    <main class="main">
+        <div class="container main-container">
+
+            <section class="section" id="andrei">
+                <h1 class="section-title-h1">Andrei Kriukov</h1>
+                <img src="assets/img/avatar_Andrei.jpg" alt="avatar_Andrei" height="248" width="200">
+            </section>
+
+            <section class="section" id="contacts">
+                <h2 class="section-title">Contacts</h2>
+                <p><a class="link link-hover" href="mailto:kryukov.kryukov@gmail.com">kryukov.kryukov@gmail.com</a></p>
+                <p>+7 (905) 285-72-73</p>
+                <p>Discord: Andrei_Kriukov#8081</p>
+            </section>
+
+            <section class="section" id="summary">
+                <h2 class="section-title">Summary</h2>
+                <ul class="list">
+                    <li>6 month of studying software testing and programming</li>
+                    <li>10+ years experience in industrial b2b sales</li>
+                </ul>
+            </section>
+
+            <section class="section" id="experience">
+                <h2 class="section-title">Experience</h2>
+
+                <table class="table-expirience">
+                    <tr>
+                        <th>June 2022-Present</th>
+                        <th>The Rolling Scopes School</th>
+                        <th>Student</th>
+                    </tr>
+                </table>
+                <ul class="list">
+                    <li>Make up pages using GIT Markup and HTML</li>
+                    <li>Commit chages in GIT</li>
+                    <li>Code on JavaScript</li>
+                </ul>
+
+                <table class="table-expirience">
+                    <tr>
+                        <th>2017-Present</th>
+                        <th>Pruftechnik CIS, LTD</th>
+                        <th>Sales Engineer</th>
+                    </tr>
+                </table>
+                <ul class="list">
+                    <li>Engage with customers to promote laser alignment products</li>
+                    <li>Trained customers’ personnel, commissioned equipment</li>
+                </ul>
+
+                <table class="table-expirience">
+                    <tr>
+                        <th>2013-2017</th>
+                        <th>SMC Pneumatik, LTD</th>
+                        <th>Senior Sales Engineer, Team Lead</th>
+                    </tr>
+                </table>
+                <ul class="list">
+                    <li>Worked with TOP clients of the department – 40% turnover</li>
+                    <li>Led a team of 7 sales engineers, 3 of them remotely</li>
+                </ul>
+
+                <section>
+                    <h3 class="section-title-h3">Additionally</h3>
+                    <p>Organized a pop-up restaurant that served thousands of customers at events. Worked as a copywriter, an electrician.</p>
+                </section>
+
+            </section>
+
+            <section class="section" id="education">
+                <h2 class="section-title">Education</h2>
+
+                <table class="table-expirience">
+                    <tr>
+                        <th>2005-2010</th>
+                        <th>Saint Petersburg Mining University</th>
+                        <th>Specialist. Mining Engineering, Surface Mining Operations </th>
+                    </tr>
+                </table>
+
+            </section>
+
+
+            <section class="section" id="courses">
+                <h2 class="section-title">Courses</h2>
+                <table class="table-courses">
+                    <tr>
+                        <th> - </th>
+                        <th> - </th>
+                        <th> - </th>
+                    </tr>
+                    <tr>
+                        <td>2022</td>
+                        <td>Introduction in programming</td>
+                        <td>hexlet.io</td>
+                    </tr>
+                    <tr>
+                        <td>2022</td>
+                        <td>Software testing</td>
+                        <td>ksendzov.com</td>
+                    </tr>
+                    <tr>
+                        <td>2022</td>
+                        <td>Interactive SQL Simulator</td>
+                        <td>stepik.org</td>
+                    </tr>
+                    <tr>
+                        <td>2019</td>
+                        <td>Data Analysis and Presentation Skills: the PwC Approach</td>
+                        <td>сoursera.org</td>
+                    </tr>
+                </table>
+            </section>
+
+            <section class="section" id="code_example">
+                <h2 class="section-title">Code example</h2>
+                <pre>
+                    const length = (str) => str.length;
+                    const toUpperCase = (str) => str.toUpperCase();
+
+                    const solution = (str) => {
+                        let result = ""; 
+
+                        for (let i = 1; i < length(str); i++) {
+                                if (str[i-1] === " ") {
+                                    result = result + toUpperCase(str[i]);
+                                }
+                                else {
+                                    result = result + str[i];   
+                                }
+                        }
+                        return toUpperCase(str[0]) + result;
+                    }
+                </pre>
+            </section>
+
+            <section class="section" id="skills">
+                <h2 class="section-title">Skills</h2>
+                <p>Software testing, SQL, OTRS, JavaScript, HTML&CSS, GIT, Photoshop, Working in team</p>
+            </section>
+
+            <section class="section" id="english_level">
+                <h2 class="section-title">English Level</h2>
+                <p>Proficient - according to the online test at www.efset.org</p>
+                <img src="assets/img/certificate_77.png" alt="EF certificate" height="154" width="154">
+            </section>
+
+
+        </div>
+        
+    </main>
+
+    <footer class="footer">
+        <div class="container footer-container">
+            <section class="section-footer">
+                <p>
+                    2022
+                </p>
+            </section>
+            
+            <section class="section-footer">
+                <a class="link" href="https://github.com/andrei-kriukov/">github: andrei-kriukov</a>
+            </section>
+
+            <section class="section-footer">
+                <a href="https://rs.school/"><img src="./assets/img/rs_school_js.svg" alt="rs school logo" height="80"></a>
+            </section>
+        </div>
+        
+    </footer>
+
+
+    
+    
 </body>
 </html>
