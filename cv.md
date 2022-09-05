@@ -13,10 +13,10 @@
 
 June 2022-Present | The Rolling Scopes School | Student
 
-
-- Make up pages using GIT Markup and HTML
+- Make up pages and apps using GIT Markup, HTML and CSS, JavaScript
 - Commit chages in GIT
-- Code on JavaScript
+- Check the work of other students
+
 
 2017-Present | Pruftechnik CIS, LTD | Sales Engineer
 
