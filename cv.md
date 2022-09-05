@@ -33,7 +33,7 @@ Organized a pop-up restaurant that served thousands of customers at events. Work
 
 ## Education
 
-| 2005-2010 | Saint Petersburg Mining University | Specialist. Mining Engineering, Surface Mining Operations |
+2005-2010 | Saint Petersburg Mining University | Specialist. Mining Engineering, Surface Mining Operations
 
 ## Courses
 | Years | Course name | Organisation |
@@ -65,8 +65,8 @@ const solution = (str) => {
 
 ## Projects
 
-- [Momentum] (https://rolling-scopes-school.github.io/andrei-kriukov-JSFEPRESCHOOL2022Q2/momentum/) - a copy of the Chrome extension of the same name
-- [Eldritch Horror] (https://andrei-kriukov.github.io/codejam-eldritch/) - an application that helps to lay out a deck of cards for board game 'Eldritch Horror'
+- [Momentum](https://rolling-scopes-school.github.io/andrei-kriukov-JSFEPRESCHOOL2022Q2/momentum/) - a copy of the Chrome extension of the same name
+- [Eldritch Horror](https://andrei-kriukov.github.io/codejam-eldritch/) - an application that helps to lay out a deck of cards for board game 'Eldritch Horror'
 
 
 
