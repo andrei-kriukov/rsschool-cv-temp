@@ -38,7 +38,6 @@ Organized a pop-up restaurant that served thousands of customers at events. Work
 ## Courses
 Years | Course name | Organisation
 --- | ------------ | --------
-
 2022 | JS / FRONT-END pre-school | rs.school
 2022 | Introduction in programming | hexlet.io
 2022 | Interactive SQL Simulator | stepik.org
