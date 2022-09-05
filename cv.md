@@ -11,17 +11,11 @@
 
 ## Experience
 
-<<<<<<< HEAD
 June 2022-Present | The Rolling Scopes School | Student
-=======
-| June 2022-Present | The Rolling Scopes School | Student |git 
-| ---- | ---- | ---- |
->>>>>>> rsschool-cv-html
 
 - Make up pages and apps using GIT Markup, HTML and CSS, JavaScript
 - Commit chages in GIT
 - Check the work of other students
-
 
 2017-Present | Pruftechnik CIS, LTD | Sales Engineer
 
@@ -72,8 +66,6 @@ const solution = (str) => {
 
 - [Momentum](https://rolling-scopes-school.github.io/andrei-kriukov-JSFEPRESCHOOL2022Q2/momentum/) - a copy of the Chrome extension of the same name
 - [Eldritch Horror](https://andrei-kriukov.github.io/codejam-eldritch/) - an application that helps to lay out a deck of cards for board game 'Eldritch Horror'
-
-
 
 ## Skills
 JavaScript, HTML&CSS, GIT, Software testing, SQL, OTRS, Photoshop, Working in team
