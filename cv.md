@@ -11,24 +11,19 @@
 
 ## Experience
 
-| June 2022-Present | The Rolling Scopes School | Student |
+June 2022-Present | The Rolling Scopes School | Student
 
-| ---- | ---- | ---- |
 
 - Make up pages using GIT Markup and HTML
 - Commit chages in GIT
 - Code on JavaScript
 
-| 2017-Present | Pruftechnik CIS, LTD | Sales Engineer |
-
-| ---- | ---- | ---- |
+2017-Present | Pruftechnik CIS, LTD | Sales Engineer
 
 - Engage with customers to promote laser alignment products
 - Trained customers’ personnel, commissioned equipment
 
-| 2013-2017 | SMC Pneumatik, LTD | Senior Sales Engineer, Team Lead |
-
-| ---- | ---- | ---- |
+2013-2017 | SMC Pneumatik, LTD | Senior Sales Engineer, Team Lead
 
 - Worked with TOP clients of the department – 40% turnover
 - Led a team of 7 sales engineers, 3 of them remotely
@@ -39,8 +34,6 @@ Organized a pop-up restaurant that served thousands of customers at events. Work
 ## Education
 
 | 2005-2010 | Saint Petersburg Mining University | Specialist. Mining Engineering, Surface Mining Operations |
-
-| ---- | ---- | ---- |
 
 ## Courses
 | Years | Course name | Organisation |
