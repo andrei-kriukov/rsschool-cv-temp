@@ -1,6 +1,6 @@
-kryukov.kryukov@gmail.com
-+7 (905) 285-72-73
-Discord: Andrei_Kriukov#8081
+- kryukov.kryukov@gmail.com
+- +7 (905) 285-72-73
+- Discord: Andrei_Kriukov#8081
 	
 # Andrei Kriukov
 
@@ -11,21 +11,18 @@ Discord: Andrei_Kriukov#8081
 
 ## Experience
 
-| June 2022-Present | The Rolling Scopes School | Student |git 
-| ---- | ---- | ---- |
+June 2022-Present | The Rolling Scopes School | Student
 
-- Make up pages using GIT Markup and HTML
+- Make up pages and apps using GIT Markup, HTML and CSS, JavaScript
 - Commit chages in GIT
-- Code on JavaScript
+- Check the work of other students
 
-| 2017-Present | Pruftechnik CIS, LTD | Sales Engineer |
-| ---- | ---- | ---- |
+2017-Present | Pruftechnik CIS, LTD | Sales Engineer
 
 - Engage with customers to promote laser alignment products
 - Trained customers’ personnel, commissioned equipment
 
-| 2013-2017 | SMC Pneumatik, LTD | Senior Sales Engineer, Team Lead |
-| ---- | ---- | ---- |
+2013-2017 | SMC Pneumatik, LTD | Senior Sales Engineer, Team Lead
 
 - Worked with TOP clients of the department – 40% turnover
 - Led a team of 7 sales engineers, 3 of them remotely
@@ -35,16 +32,15 @@ Organized a pop-up restaurant that served thousands of customers at events. Work
 
 ## Education
 
-| 2005-2010 | Saint Petersburg Mining University | Specialist. Mining Engineering, Surface Mining Operations |
-| ---- | ---- | ---- |
+2005-2010 | Saint Petersburg Mining University | Specialist. Mining Engineering, Surface Mining Operations
 
 ## Courses
-|      |                                        |             |
-| ---- | -------------------------------------- | ----------- |
-| 2022 | Introduction in programming | hexlet.io |
-| 2022 | Software testing | ksendzov.com |
-| 2022 | Interactive SQL Simulator | stepik.org |
-| 2019 |  Data Analysis and Presentation Skills: the PwC Approach | Coursera |
+Years | Course name | Organisation
+--- | ------------ | --------
+2022 | JS / FRONT-END pre-school | rs.school
+2022 | Introduction in programming | hexlet.io
+2022 | Interactive SQL Simulator | stepik.org
+2019 |  Data Analysis and Presentation Skills: the PwC Approach | Coursera
 
 ## Code example
 ```
@@ -66,8 +62,13 @@ const solution = (str) => {
 }
 ```
 
+## Projects
+
+- [Momentum](https://rolling-scopes-school.github.io/andrei-kriukov-JSFEPRESCHOOL2022Q2/momentum/) - a copy of the Chrome extension of the same name
+- [Eldritch Horror](https://andrei-kriukov.github.io/codejam-eldritch/) - an application that helps to lay out a deck of cards for board game 'Eldritch Horror'
+
 ## Skills
-Software testing, SQL, OTRS, JavaScript, HTML&CSS, GIT, Photoshop, Working in team
+JavaScript, HTML&CSS, GIT, Software testing, SQL, OTRS, Photoshop, Working in team
 
 ## English Level
 Proficient - according to the online test at www.efset.org
