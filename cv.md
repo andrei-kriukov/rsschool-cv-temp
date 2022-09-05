@@ -36,12 +36,11 @@ Organized a pop-up restaurant that served thousands of customers at events. Work
 2005-2010 | Saint Petersburg Mining University | Specialist. Mining Engineering, Surface Mining Operations
 
 ## Courses
-| Years | Course name | Organisation |
-| ---- | -------------------------------------- | ----------- |
-| 2022 | JS / FRONT-END pre-school | rs.school |
-| 2022 | Introduction in programming | hexlet.io |
-| 2022 | Interactive SQL Simulator | stepik.org |
-| 2019 |  Data Analysis and Presentation Skills: the PwC Approach | Coursera |
+Years | Course name | Organisation
+2022 | JS / FRONT-END pre-school | rs.school
+2022 | Introduction in programming | hexlet.io
+2022 | Interactive SQL Simulator | stepik.org
+2019 |  Data Analysis and Presentation Skills: the PwC Approach | Coursera
 
 ## Code example
 ```
