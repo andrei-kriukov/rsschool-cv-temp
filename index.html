@@ -179,7 +179,7 @@ const toUpperCase = (str) => str.toUpperCase();
 const solution = (str) => {
     let result = ""; 
 
-    for (let i = 1; i &lt length(str); i++) {
+    for (let i = 1; i &lt; length(str); i++) {
         if (str[i-1] === " ") {
             result = result + toUpperCase(str[i]);
         }
